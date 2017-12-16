@@ -1,0 +1,12 @@
+{
+  "extends": "google",
+  "parserOptions": {
+    "ecmaVersion": 6
+  },
+  "rules": {
+    "prefer-const": "error",
+    "comma-dangle": ["error", "never"],
+    "brace-style": 0,
+    "block-spacing": 0
+  }
+}

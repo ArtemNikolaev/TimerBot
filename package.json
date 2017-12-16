@@ -1,0 +1,29 @@
+{
+  "name": "TimerBot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArtemNikolaev/TimerBot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArtemNikolaev/TimerBot/issues"
+  },
+  "homepage": "https://github.com/ArtemNikolaev/TimerBot#readme",
+  "dependencies": {
+    "bunyan": "^1.8.12",
+    "bunyan-format": "^0.2.1",
+    "telegraf": "^3.17.2",
+    "eslint-config-google": "^0.9.1"
+  },
+  "devDependencies": {
+    "eslint": "^4.13.1"
+  }
+}
